@@ -1,0 +1,5 @@
+# /etc/modules-load.d/l410.conf
+#
+# HiSilicon Hi1103 WiFi/Bluetooth. The module ships with the L410 kernel and
+# needs /vendor/firmware/hi1103/pilot to be present before it autoboots.
+hi110x

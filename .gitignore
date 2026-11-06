@@ -1,0 +1,19 @@
+# 本地草稿与原始记录，不发布
+notes/
+
+# 构建产物
+*.iso
+*.img
+*.img.zst
+*.tar.gz
+*.tar.zst
+
+# 厂商固件，不可再分发
+vendor/
+*.wdk
+cfg_udp_1103_pilot.ini
+
+# 临时文件
+*.log
+*.tmp
+.DS_Store
